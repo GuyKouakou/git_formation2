@@ -8,4 +8,8 @@ public class main {
     int calculSome (int a ,int b) {
         return  a + b ;
     }
+
+    int calculQuatien (int a ,int b) {
+        return  a / b ;
+    }
 }
